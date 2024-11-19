@@ -1,8 +1,20 @@
-# React + Vite
+# Danesh yar 
++ cms + backend + +20page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Setup steps 
+<ul>
+  <li>1- npm inistall  (node modual)</li>
+  <li>2- cd backend</li>
+  <li>3- npm run dev</li>
+  <li>4- cd ../ </li>
+  <li>5- npm run dev  ( vite ) </li>
+</ul>
 
-Currently, two official plugins are available:
+---
+ to go to panel cms => url => /panel_amin
+ 
+to go to panel usr => 1- login 2-/panle_user 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+---
