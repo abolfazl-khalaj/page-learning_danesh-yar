@@ -11,7 +11,7 @@
 </ul>
 
 ---
- to go to panel cms => url => /panel_amin
+ to go to panel => url => /panel_amin
  
 to go to panel usr => 1- login 2-/panle_user 
 
